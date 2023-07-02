@@ -1,0 +1,17 @@
+article{
+    color:whitesmoke;
+    background-color:purple;
+    text-align:center;
+}
+body{
+    background-color:rgb(63, 60, 60);
+}
+#box{
+    background-color:blue;
+}
+.heading{
+    color:red;
+}
+button{
+    background-color: green;
+}
